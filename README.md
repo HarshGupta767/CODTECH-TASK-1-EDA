@@ -102,6 +102,13 @@ The analysis explores customer churn patterns, focusing on various factors such 
    - **Contract Types**: 42% churn for month-to-month contracts; 11% for yearly contracts; 3% for two-year contracts.
    - **Tenure**: 50% churn in the first year, dropping to 15% after three years.
 
+## Image Example
+
+![Count of Customers by Churn](https://github.com/HarshGupta767/CODTECH-TASK-1-Exploratory-Data-Analysis/raw/main/Count%20of%20Customers%20by%20Churn.png)
+![Churn by Senior Citizen (Stacked Bar Chart)](https://github.com/HarshGupta767/CODTECH-TASK-1-Exploratory-Data-Analysis/raw/main/Churn%20by%20Senior%20Citizen%20(Stacked%20Bar%20Chart).png)
+![Churned Customers by Payment Methods](https://github.com/HarshGupta767/CODTECH-TASK-1-Exploratory-Data-Analysis/raw/main/Chumed%20Customers%20by%20Payment%20Methods.png)
+![Count of Customers by Contract](https://github.com/HarshGupta767/CODTECH-TASK-1-Exploratory-Data-Analysis/raw/main/Count%20of%20Customers%20by%20Contract.png)
+
 ---
 
 ## Recommendations
