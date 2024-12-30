@@ -1,6 +1,6 @@
 # CODTECH-TASK-1-EDA
 
-# Teco Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## Internship Details
 - **Name**: Harshkumar Gupta  
