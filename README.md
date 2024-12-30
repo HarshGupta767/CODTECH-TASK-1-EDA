@@ -1,14 +1,14 @@
-# CODTECH-TASK-1-Exploratory-Data-Analysis
-
-# Telecom Customer Churn Analysis
-
-## Internship Details
+#### **Participant Details**:
 - **Name**: Harshkumar Gupta  
 - **Company**: CODTECH IT SOLUTIONS  
 - **ID**: CT12WDZM  
 - **Domain**: Data Analytics  
 - **Duration**: Dec 2024 to March 2025  
-- **Mentor**: Neela Santhosh Kumar  
+- **Mentor**: Neela Santhosh Kumar
+
+# CODTECH-TASK-1-Exploratory-Data-Analysis
+
+## Telecom Customer Churn Analysis
 
 ---
 
