@@ -1,4 +1,4 @@
-# CODTECH-TASK-1-EDA
+# CODTECH-TASK-1-Exploratory-Data-Analysis
 
 # Telecom Customer Churn Analysis
 
